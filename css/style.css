@@ -95,6 +95,21 @@ div + div + div + div{
   display: inline-block;
   font-size: 14px;
 }
+.inline-block1{
+  background-color: #e009;
+}
+.inline-block2{
+  background-color: #a009;
+}
+.inline-block3{
+  background-color: #7009;
+}
+.inline-block4{
+  background-color: #0a09;
+}
+.inline-block6{
+  background-color: #0709;
+}
 .inline-block9{
   background-color: #70f9;
 }
@@ -109,3 +124,22 @@ div + div + div + div{
 }
 .inline-block13{
   background-color: #60f9;
+}
+.inline-block14{
+  background-color: #a029;
+}
+.inline-block15{
+  background-color: #50f9;
+}
+.inline-block16{
+  background-color: #a049;
+}
+.inline-block17{
+  background-color: #57f9;
+}
+.inline-block18{
+  background-color: #a729;
+}
+.inline-block19{
+  background-color: #7049;
+}
