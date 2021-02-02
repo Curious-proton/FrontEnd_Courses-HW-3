@@ -64,22 +64,21 @@ a{
   text-decoration: none;
 }
 div{
-  background-color: #f009;
   min-height: 50px;
 }
 div + div{
-  background-color: #0f09;
   min-height: 50px;
 }
 div + div + div{
-  background-color: #00f9;
   min-height: 50px;
 }
 div + div + div + div{
-  background-color: #fa09;
   min-height: 50px;
 }
 .parent{
+  font-size: 0;
+}
+.parent-block{
   font-size: 0;
 }
 .width33{
