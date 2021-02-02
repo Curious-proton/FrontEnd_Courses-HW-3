@@ -31,3 +31,21 @@ div + div + div + div{
   background-color: #fa09;
   min-height: 50px;
 }
+.parent{
+  font-size: 0;
+}
+.width33{
+  width: 33%;
+}
+.width66{
+  width: 66%;
+}
+.inline-block{
+  display: inline-block;
+  min-height: 50px;
+}
+.inline-block1{
+  background-color: #20f9;
+}
+.inline-block2{
+  background-color: #30f9;
