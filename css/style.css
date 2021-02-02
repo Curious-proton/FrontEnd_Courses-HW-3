@@ -10,16 +10,24 @@
   margin-right: 70px;
   margin-bottom: 30px;
   width: 300px;
-}
-.article{
-  font-size: 0;
-}
-.top{
-  background-color: red;
-  display: inline-block;
-  width: 474px;
-  font-size: 14px;
+  text-align: center;
 }
 a{
   text-decoration: none;
+}
+div{
+  background-color: #f009;
+  min-height: 50px;
+}
+div + div{
+  background-color: #0f09;
+  min-height: 50px;
+}
+div + div + div{
+  background-color: #00f9;
+  min-height: 50px;
+}
+div + div + div + div{
+  background-color: #fa09;
+  min-height: 50px;
 }
