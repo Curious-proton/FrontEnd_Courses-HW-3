@@ -1,0 +1,25 @@
+.navigation{
+  font-size: 0;
+}
+.navigation li{
+  display: inline-block;
+  background-color: white;
+  font-size: 40px;
+  padding: 30px;
+  margin-left: 25px;
+  margin-right: 70px;
+  margin-bottom: 30px;
+  width: 300px;
+}
+.article{
+  font-size: 0;
+}
+.top{
+  background-color: red;
+  display: inline-block;
+  width: 474px;
+  font-size: 14px;
+}
+a{
+  text-decoration: none;
+}
