@@ -47,99 +47,98 @@ table {
 	border-spacing: 0;
 }
 .navigation{
-  font-size: 0;
+    font-size: 0;
 }
 .navigation li{
-  display: inline-block;
-  background-color: white;
-  font-size: 40px;
-  padding: 30px;
-  margin-left: 25px;
-  margin-right: 70px;
-  margin-bottom: 30px;
-  width: 300px;
-  text-align: center;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    padding: 30px;
+    margin-left: 25px;
+    margin-right: 70px;
+    margin-bottom: 30px;
+    width: 300px;
+    text-align: center;
 }
 a{
-  text-decoration: none;
+    text-decoration: none;
 }
 div{
-  min-height: 50px;
+    min-height: 50px;
 }
 div + div{
-  min-height: 50px;
+    min-height: 50px;
 }
 div + div + div{
-  min-height: 50px;
+    min-height: 50px;
 }
 div + div + div + div{
-  min-height: 50px;
+    min-height: 50px;
 }
 .parent{
-  font-size: 0;
+    font-size: 0;
 }
 .parent-block{
-  font-size: 0;
+    font-size: 0;
 }
 .width33{
-  width: 33%;
+    width: 33%;
 }
 .width50{
-  width: 50%;
+    width: 50%;
 }
 .width66{
-  width: 66%;
+    width: 66%;
 }
 .inline-block{
-  display: inline-block;
-  font-size: 14px;
+    display: inline-block;
+    font-size: 14px;
 }
 .inline-block1{
-  background-color: #e009;
+    background-color: #e009;
 }
 .inline-block2{
-  background-color: #a009;
+    background-color: #a009;
 }
 .inline-block3{
-  background-color: #7009;
+    background-color: #7009;
 }
 .inline-block4{
-  background-color: #0a09;
+    background-color: #0a09;
 }
 .inline-block6{
-  background-color: #0709;
+    background-color: #0709;
 }
 .inline-block9{
-  background-color: #70f9;
-  font-size: 14,5;
+    background-color: #70f9;
 }
 .inline-block10{
-  background-color: #50f9;
+    background-color: #50f9;
 }
 .inline-block11{
     background-color: #30f9;
 }
 .inline-block12{
-  background-color: #90f9;
+    background-color: #90f9;
 }
 .inline-block13{
-  background-color: #60f9;
+    background-color: #60f9;
 }
 .inline-block14{
-  background-color: #a029;
+    background-color: #a029;
 }
 .inline-block15{
-  background-color: #50f9;
+    background-color: #50f9;
 }
 .inline-block16{
-  background-color: #a049;
+    background-color: #a049;
 }
 .inline-block17{
-  background-color: #57f9;
+    background-color: #57f9;
 }
 .inline-block18{
-  background-color: #a729;
+    background-color: #a729;
 }
 .inline-block19{
-  background-color: #7049;
+    background-color: #7049;
 }
